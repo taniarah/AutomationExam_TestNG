@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-30T06:13:57Z" name="Default suite" finished-at="2021-08-30T06:14:13Z" duration-ms="16004">
+    <groups>
+    </groups>
+    <test started-at="2021-08-30T06:13:57Z" name="Default test" finished-at="2021-08-30T06:14:13Z" duration-ms="16004">
+      <class name="test.CategoryTest">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:13:57Z" name="readConfig" finished-at="2021-08-30T06:13:57Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:13:57Z" name="init" finished-at="2021-08-30T06:13:59Z" duration-ms="2691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="addCategory()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:13:59Z" name="addCategory" finished-at="2021-08-30T06:14:04Z" duration-ms="4674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:04Z" name="teardown" finished-at="2021-08-30T06:14:05Z" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:05Z" name="init" finished-at="2021-08-30T06:14:07Z" duration-ms="2261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="addDuplicateCategory()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:07Z" name="addDuplicateCategory" finished-at="2021-08-30T06:14:09Z" duration-ms="1495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDuplicateCategory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:09Z" name="teardown" finished-at="2021-08-30T06:14:09Z" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:09Z" name="init" finished-at="2021-08-30T06:14:12Z" duration-ms="2217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyAllMonthsExist()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:12Z" name="verifyAllMonthsExist" finished-at="2021-08-30T06:14:12Z" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllMonthsExist -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:12Z" name="teardown" finished-at="2021-08-30T06:14:13Z" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.CategoryTest@57ad2aa7]" started-at="2021-08-30T06:14:13Z" name="afterClass" finished-at="2021-08-30T06:14:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.CategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
